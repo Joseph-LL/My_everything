@@ -1,4 +1,3 @@
-# My_everything
 # MY_Everything 文件搜索工具
 
 一个快速、轻量级的文件搜索工具，类似于 Everything，但具有更友好的界面和更多的自定义选项。
